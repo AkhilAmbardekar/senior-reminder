@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/homeMenu"
+        android:enabled="true"
+        android:icon="@drawable/ic_baseline_home_24"
+        android:orderInCategory="1"
+        android:title="@string/HomeText"
+        android:visible="true" />
+    <item
+        android:id="@+id/medicationTrackingMenu"
+        android:enabled="true"
+        android:icon="@drawable/ic_medication_icon"
+        android:orderInCategory="2"
+        android:title="@string/medicationTrackingText"
+        android:visible="true" />
+    <item
+        android:id="@+id/tasksMenu"
+        android:enabled="true"
+        android:icon="@drawable/ic_baseline_playlist_add_check_24"
+        android:orderInCategory="3"
+        android:title="@string/tasksText"
+        android:visible="true" />
+    <item
+        android:id="@+id/fluShotMenu"
+        android:enabled="true"
+        android:icon="@drawable/ic_needle_icon"
+        android:orderInCategory="4"
+        android:title="@string/fluShotText"
+        android:visible="true" />
+</menu>

@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "251593343483",
+    "firebase_url": "https://senior-reminder.firebaseio.com",
+    "project_id": "senior-reminder",
+    "storage_bucket": "senior-reminder.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:251593343483:android:5550c19dbf86b8ddf18b5e",
+        "android_client_info": {
+          "package_name": "com.example.seniorreminder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "251593343483-s6bqhbauqkr3h2n04ab6g1kvp667f5q3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtNjsZkD5UNqS7eyqhlv0eIrslXYHv_b0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "251593343483-s6bqhbauqkr3h2n04ab6g1kvp667f5q3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

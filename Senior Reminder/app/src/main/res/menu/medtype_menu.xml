@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/antibioticIT"
+        android:title="@string/antiobioticTitle" />
+    <item
+        android:id="@+id/diabeticMedIT"
+        android:title="@string/diabeticTitle" />
+
+    <item
+        android:id="@+id/heartMedIT"
+        android:title="@string/heartTitle" />
+
+    <item
+        android:id="@+id/otherMedIT"
+        android:title="@string/otherMedTitle" />
+
+</menu>
